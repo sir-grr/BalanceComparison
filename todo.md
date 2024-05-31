@@ -1,0 +1,3 @@
+-write a visualisation
+-write a class for rolling dice and recieving accurate results
+-combine these and show a comparison of 1d20 vs 2d8
